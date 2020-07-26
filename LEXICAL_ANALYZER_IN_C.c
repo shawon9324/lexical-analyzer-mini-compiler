@@ -3,7 +3,7 @@
 =                                                          =
 =    PROJECT TITLE : Implementing Lexical Analyzer in C    =                                            =
 =    Department of Computer Science and Engineering        =
-=                                                          =
+=    DATE OF SUBMISSION : 02 DECEMBER 2019                 =                                                  =
 ============================================================
 */
 
