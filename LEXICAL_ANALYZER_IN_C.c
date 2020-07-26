@@ -1,23 +1,9 @@
 /*
 ============================================================
-=    DAFFODIL INTERNATIONAL UNIVERSITY                     =
 =                                                          =
-=    COURSE CODE : CSE332                                  =
-=    COURSE TITLE: COMPILER DESIGN LAB                     =
-=                                                          =
-=    PROJECT TITLE : Implementing Lexical Analyzer in C    =
-=    GROUP NAME : TEAM LIQUID                              =
-=                                                          =
-=    SUBMITTED BY :                                        =
-=    1. Md. Shahriar Karim Shawon : 171-15-1269            =
-=    2. Hosnain Ahammad : 171-15-1233                      =
-=    3. Fariha Zannat Luna : 171-15-1261                   =
-=                                                          =
-=    SUBMITTED TO :                                        =
-=    Zarin Tasnim Shejuti                                  =
-=    Lecturer,                                             =
+=    PROJECT TITLE : Implementing Lexical Analyzer in C    =                                            =
 =    Department of Computer Science and Engineering        =
-=    DATE OF SUBMISSION : 02 DECEMBER 2019                 =
+=                                                          =
 ============================================================
 */
 
